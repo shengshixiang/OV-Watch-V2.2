@@ -44,6 +44,8 @@
 *.pdb
 *.__i
 *.anderson
+*.axf
+*.htm
 # Kernel Module Compile Results
 *.mod*
 *.cmd

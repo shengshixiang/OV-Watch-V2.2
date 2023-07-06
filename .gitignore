@@ -42,7 +42,8 @@
 *.su
 *.idb
 *.pdb
-
+*.__i
+*.anderson
 # Kernel Module Compile Results
 *.mod*
 *.cmd

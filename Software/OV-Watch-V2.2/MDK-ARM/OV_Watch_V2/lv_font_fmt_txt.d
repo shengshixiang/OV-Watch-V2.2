@@ -1,11 +1,11 @@
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\lv_font_fmt_txt.c
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\lv_font.h
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../lv_conf_internal.h
-ov_watch_v2\lv_font_fmt_txt.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+ov_watch_v2\lv_font_fmt_txt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../lv_conf_kconfig.h
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../../lv_conf.h
-ov_watch_v2\lv_font_fmt_txt.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stddef.h
-ov_watch_v2\lv_font_fmt_txt.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+ov_watch_v2\lv_font_fmt_txt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ov_watch_v2\lv_font_fmt_txt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\lv_symbol_def.h
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_area.h
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\lv_font_fmt_txt.h
@@ -13,7 +13,7 @@ ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_log.h
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_types.h
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_mem.h
-ov_watch_v2\lv_font_fmt_txt.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\string.h
+ov_watch_v2\lv_font_fmt_txt.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_gc.h
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_ll.h
 ov_watch_v2\lv_font_fmt_txt.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../misc/lv_timer.h

@@ -2,8 +2,8 @@ ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\lv_disp.c
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\lv_disp.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/lv_hal.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/lv_hal_disp.h
-ov_watch_v2\lv_disp.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdint.h
-ov_watch_v2\lv_disp.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+ov_watch_v2\lv_disp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ov_watch_v2\lv_disp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/lv_hal.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/lv_draw.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../lv_conf_internal.h
@@ -11,7 +11,7 @@ ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../l
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../../../lv_conf.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/lv_style.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/../font/lv_font.h
-ov_watch_v2\lv_disp.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stddef.h
+ov_watch_v2\lv_disp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/../font/lv_symbol_def.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/../font/../misc/lv_area.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/lv_color.h
@@ -19,11 +19,11 @@ ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../m
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/lv_log.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/lv_types.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/lv_mem.h
-ov_watch_v2\lv_disp.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\string.h
+ov_watch_v2\lv_disp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/lv_math.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/lv_anim.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/lv_txt.h
-ov_watch_v2\lv_disp.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+ov_watch_v2\lv_disp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/lv_printf.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/lv_bidi.h
 ov_watch_v2\lv_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\core\../hal/../draw/../misc/lv_style_gen.h

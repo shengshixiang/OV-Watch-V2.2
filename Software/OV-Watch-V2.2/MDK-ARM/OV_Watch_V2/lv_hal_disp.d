@@ -1,9 +1,9 @@
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\lv_hal_disp.c
-ov_watch_v2\lv_hal_disp.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdint.h
-ov_watch_v2\lv_hal_disp.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stddef.h
+ov_watch_v2\lv_hal_disp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ov_watch_v2\lv_hal_disp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\lv_hal.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\lv_hal_disp.h
-ov_watch_v2\lv_hal_disp.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+ov_watch_v2\lv_hal_disp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\lv_hal.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/lv_draw.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/../lv_conf_internal.h
@@ -18,11 +18,11 @@ ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/../misc/
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/../misc/lv_log.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/../misc/lv_types.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/../misc/lv_mem.h
-ov_watch_v2\lv_hal_disp.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\string.h
+ov_watch_v2\lv_hal_disp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/../misc/lv_math.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/../misc/lv_anim.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/../misc/lv_txt.h
-ov_watch_v2\lv_hal_disp.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+ov_watch_v2\lv_hal_disp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/../misc/lv_printf.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/../misc/lv_bidi.h
 ov_watch_v2\lv_hal_disp.o: ..\Middlewares\LVGL\GUI\lvgl\src\hal\../draw/../misc/lv_style_gen.h

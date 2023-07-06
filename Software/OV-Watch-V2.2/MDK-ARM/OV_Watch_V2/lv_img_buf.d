@@ -1,11 +1,11 @@
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\lv_img_buf.c
-ov_watch_v2\lv_img_buf.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stddef.h
-ov_watch_v2\lv_img_buf.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\string.h
+ov_watch_v2\lv_img_buf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ov_watch_v2\lv_img_buf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\lv_img_buf.h
-ov_watch_v2\lv_img_buf.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+ov_watch_v2\lv_img_buf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_color.h
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/../lv_conf_internal.h
-ov_watch_v2\lv_img_buf.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+ov_watch_v2\lv_img_buf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/../lv_conf_kconfig.h
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/../../../lv_conf.h
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_assert.h
@@ -22,7 +22,7 @@ ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/../font/
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/../font/lv_symbol_def.h
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_anim.h
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_txt.h
-ov_watch_v2\lv_img_buf.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+ov_watch_v2\lv_img_buf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_printf.h
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_bidi.h
 ov_watch_v2\lv_img_buf.o: ..\Middlewares\LVGL\GUI\lvgl\src\draw\../misc/lv_style_gen.h

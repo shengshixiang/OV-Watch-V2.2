@@ -1,8 +1,8 @@
 ov_watch_v2\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
-ov_watch_v2\list.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+ov_watch_v2\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ov_watch_v2\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-ov_watch_v2\list.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stddef.h
-ov_watch_v2\list.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+ov_watch_v2\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ov_watch_v2\list.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ov_watch_v2\list.o: ..\Tasks\Inc\FreeRTOSConfig.h
 ov_watch_v2\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 ov_watch_v2\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

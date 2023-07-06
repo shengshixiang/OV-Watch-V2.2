@@ -1,7 +1,7 @@
 ov_watch_v2\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
 ov_watch_v2\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-ov_watch_v2\croutine.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stddef.h
-ov_watch_v2\croutine.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+ov_watch_v2\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ov_watch_v2\croutine.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ov_watch_v2\croutine.o: ..\Tasks\Inc\FreeRTOSConfig.h
 ov_watch_v2\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 ov_watch_v2\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h

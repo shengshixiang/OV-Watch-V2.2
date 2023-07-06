@@ -1,6 +1,6 @@
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\lv_font_loader.c
-ov_watch_v2\lv_font_loader.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdint.h
-ov_watch_v2\lv_font_loader.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+ov_watch_v2\lv_font_loader.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+ov_watch_v2\lv_font_loader.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../lvgl.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../lvgl.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_log.h
@@ -11,13 +11,13 @@ ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/mi
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_timer.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_math.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_mem.h
-ov_watch_v2\lv_font_loader.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stddef.h
-ov_watch_v2\lv_font_loader.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\string.h
+ov_watch_v2\lv_font_loader.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ov_watch_v2\lv_font_loader.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_async.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_anim_timeline.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_anim.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/misc/lv_printf.h
-ov_watch_v2\lv_font_loader.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+ov_watch_v2\lv_font_loader.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/hal/lv_hal.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/hal/lv_hal_disp.h
 ov_watch_v2\lv_font_loader.o: ..\Middlewares\LVGL\GUI\lvgl\src\font\../../src/hal/lv_hal.h

@@ -1,8 +1,8 @@
 ov_watch_v2\user_stopentertask.o: ..\Tasks\Src\user_StopEnterTask.c
 ov_watch_v2\user_stopentertask.o: ..\Tasks\Inc\user_TasksInit.h
 ov_watch_v2\user_stopentertask.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
-ov_watch_v2\user_stopentertask.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stddef.h
-ov_watch_v2\user_stopentertask.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+ov_watch_v2\user_stopentertask.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+ov_watch_v2\user_stopentertask.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
 ov_watch_v2\user_stopentertask.o: ..\Tasks\Inc\FreeRTOSConfig.h
 ov_watch_v2\user_stopentertask.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
 ov_watch_v2\user_stopentertask.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
@@ -22,15 +22,15 @@ ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/misc/../lv_co
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/misc/../../../lv_conf.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/misc/lv_types.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/misc/lv_timer.h
-ov_watch_v2\user_stopentertask.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+ov_watch_v2\user_stopentertask.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/misc/lv_math.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/misc/lv_mem.h
-ov_watch_v2\user_stopentertask.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\string.h
+ov_watch_v2\user_stopentertask.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/misc/lv_async.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/misc/lv_anim_timeline.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/misc/lv_anim.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/misc/lv_printf.h
-ov_watch_v2\user_stopentertask.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdarg.h
+ov_watch_v2\user_stopentertask.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/hal/lv_hal.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/hal/lv_hal_disp.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/hal/lv_hal.h
@@ -137,7 +137,7 @@ ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/extra/libs/fr
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/extra/libs/rlottie/lv_rlottie.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI\lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI_UserApp\ui_font_define.h
-ov_watch_v2\user_stopentertask.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\stdio.h
+ov_watch_v2\user_stopentertask.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI_UserApp\ui_HomePage.h
 ov_watch_v2\user_stopentertask.o: ..\Middlewares\LVGL\GUI_UserApp\ui_OffTimePage.h
 ov_watch_v2\user_stopentertask.o: ../Core/Inc/main.h
@@ -185,6 +185,6 @@ ov_watch_v2\user_stopentertask.o: ../Hardwares/TOUCH/CST816.h
 ov_watch_v2\user_stopentertask.o: ../Hardwares/IIC/iic_hal.h
 ov_watch_v2\user_stopentertask.o: ../SYSTEM/delay.h
 ov_watch_v2\user_stopentertask.o: ../Hardwares/MPU6050/MPU6050.h
-ov_watch_v2\user_stopentertask.o: D:\softwares\KEIL5MDK\ARM\ARMCC\Bin\..\include\math.h
+ov_watch_v2\user_stopentertask.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
 ov_watch_v2\user_stopentertask.o: ..\Hardwares\KEY\key.h
 ov_watch_v2\user_stopentertask.o: ..\Hardwares\OWDG\WDOG.h
